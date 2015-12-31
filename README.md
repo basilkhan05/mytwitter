@@ -1,5 +1,11 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+[Basil's Home Twitter Feed](http://basilkhan.ca/projects/mytwitter/) - [Basil Khan](http://basilkhan.ca/projects/mytwitter/)
+This Project uses the Twitter API to get the most recent posts in Basil's Twiiter news feed and displays only the ones favorited/liked over 20 times. 
 
+More revisions and features to come!
+
+
+*************BELOW IS THE README FOR START BOOTSTRAP THEME****************
+# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
 
 ## Getting Started
