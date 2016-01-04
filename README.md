@@ -1,7 +1,7 @@
-[Basil's Home Twitter Feed](http://basilkhan.ca/projects/mytwitter/) - [Basil Khan](http://basilkhan.ca/projects/mytwitter/)
+# [Basil's Home Twitter Feed](http://basilkhan.ca/projects/mytwitter/) - [Basil Khan](http://basilkhan.ca/projects/mytwitter/)
 This Project uses the Twitter API to get the most recent posts in Basil's Twiiter news feed and displays only the ones favorited/liked over 20 times. 
 
-More revisions and features to come!
+Add email updates and better sorting feature to the tool.
 
 
 *************BELOW IS THE README FOR START BOOTSTRAP THEME****************
