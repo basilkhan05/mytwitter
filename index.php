@@ -79,7 +79,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="www.basilkhan.ca">Portfolio</a>
+                        <a href="http://basilkhan.ca/">Portfolio</a>
                     </li>
                 </ul>
             </div>
